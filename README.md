@@ -33,3 +33,6 @@ The matrix is given as input as a nested list by entering the rows and columns a
 
 ## Output format
 The output consists of only the parametric vector form, which is in the form of a string.
+
+## Alternate method
+The same can be done alternatively by using `numpy` library. The matrix can be converted to an `array`, and in-built libraries can be used to perform each step of the calculation.
