@@ -32,7 +32,7 @@ This project was done as a part of the `MTH101 (Linear Algebra)` course offered 
 The coefficient matrix is given as input as a nested list by entering the rows and columns as given.
 
 ## Output format
-The output consists of only the parametric vector form, which is in the form of a string.
+The output consists of the rref of the matrix and the parametric vector form, which is in the form of a string.
 
 ## Alternate method
 The same can be done alternatively by using `numpy` library. The matrix can be converted to an `array`, and in-built libraries can be used to perform each step of the calculation.
